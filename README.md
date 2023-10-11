@@ -3,9 +3,13 @@
    To implement a linear trend estimation using python program 
 ## PROCEDURE:
    1.Import Required Libraries
+   
    2 Calculate the sum of the elements in array x and y
+   
    3 Calculate b using the formula for linear regression.
+   
    4 Calculate the mean of X and Y values and store them in meanX and meanY.
+   
    5.The final output includes the regression line equation and a plot of the data with the regression line.
 
 ## PROGRAM:
